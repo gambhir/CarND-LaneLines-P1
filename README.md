@@ -5,7 +5,7 @@
 
 Overview
 ---
-The solutions provided in the drop implements a lane detection algorithm. 
+The solutions implements a lane detection algorithm. 
 
 
 The Project
