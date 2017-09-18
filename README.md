@@ -17,7 +17,7 @@ This command will bring up a browser window in the current directory  is and sel
 
 The last two cell blocks takes video as an input and draws the lanes detected. The video player is embedded in a html page and would be visible when the page loads. 
 
-There are two output vidoes written to test_videos_output folder. 
+There are two output videos written to test_videos_output folder. 
 solidWhiteRight.mp4	
 solidYellowLeft.mp4
 
