@@ -11,6 +11,8 @@ Grayscale: Convert regular color image to single channel image. <br />
 <img src="./gray.png" width="480" alt="Combined Image" /> <br />
 
 Gaussian Blur:  Applied to smooth out the noise. <br />
+<img src="./blur_gray.png" width="480" alt="Combined Image" /> <br />
+
 Canny Edge Detection: Transform and detect the edges. <br />
 <img src="./edge.png" width="480" alt="Combined Image" /> <br />
 
