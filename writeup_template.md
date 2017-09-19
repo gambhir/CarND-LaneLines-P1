@@ -9,6 +9,8 @@ The following techniques are used:
 Grayscale: Convert regular color image to single channel image.
 Gaussian Blur:  Applied to smooth out the noise,
 Canny Edge Detection: Transform and detect the edges
+[image1]: ./misc/rover_image.jpg
+
 
 Region masking: Selecting only portion of image defined by polygon vertices rest is blacked out. 
 Hough Transform Line Detection: Detects the linear lines in the image
