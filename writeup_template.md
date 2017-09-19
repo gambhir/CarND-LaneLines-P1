@@ -9,7 +9,8 @@ The following techniques are used:
 Grayscale: Convert regular color image to single channel image.
 Gaussian Blur:  Applied to smooth out the noise,
 Canny Edge Detection: Transform and detect the edges
-[image1]: ./edge.png
+<img src="./edge.png" width="480" alt="Combined Image" />
+
 
 
 Region masking: Selecting only portion of image defined by polygon vertices rest is blacked out. 
