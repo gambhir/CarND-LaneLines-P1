@@ -24,5 +24,8 @@ Identified the left and right lanes with negative and positive slope. And afteri
 <img src="./extrapolate.png" width="480" alt="Combined Image" /> <br />
 
 
-
+I defined three new helper functions 
+def average_slope_intercept(lines): (Gets the left and right slope and intercept based on -ve and +ve slope)
+def lane_lines(image, lines): (Gets the coordiantes of x1,y1 and x2,y2)
+get_mean_line(line, lines): (Gets the mean line)
 
