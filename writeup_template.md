@@ -6,10 +6,10 @@ The goals / steps of this project are the following:
 In this project, I used Python and OpenCV to find lane lines in the road images.
 
 The following techniques are used:
-Grayscale: Convert regular color image to single channel image.
-Gaussian Blur:  Applied to smooth out the noise,
-Canny Edge Detection: Transform and detect the edges
-<img src="./edge.png" width="480" alt="Combined Image" />
+Grayscale: Convert regular color image to single channel image.<br />
+Gaussian Blur:  Applied to smooth out the noise. <br />
+Canny Edge Detection: Transform and detect the edges. <br />
+<img src="./edge.png" width="480" alt="Combined Image" /> <br />
 
 
 
