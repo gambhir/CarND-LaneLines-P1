@@ -21,6 +21,8 @@ Since some lanes lines are partically recongnized by using extrapolating techniq
 
 Identified the left and right lanes with negative and positive slope. And aftering identifiying left and right took the average. 
 
+img src="./extrapolate.png" width="480" alt="Combined Image" /> <br />
+
 
 
 
