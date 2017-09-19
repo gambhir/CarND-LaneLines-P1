@@ -11,10 +11,11 @@ Gaussian Blur:  Applied to smooth out the noise. <br />
 Canny Edge Detection: Transform and detect the edges. <br />
 <img src="./edge.png" width="480" alt="Combined Image" /> <br />
 
-
-
 Region masking: Selecting only portion of image defined by polygon vertices rest is blacked out. 
-Hough Transform Line Detection: Detects the linear lines in the image
+
+Hough Transform Line Detection: Detects the linear lines in the image <br />
+<img src="./hough.png" width="480" alt="Combined Image" /> <br />
+
 
 Since some lanes lines are partically recongnized by using extrapolating technique the lines were extended for continuity. 
 
