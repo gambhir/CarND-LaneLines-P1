@@ -34,7 +34,7 @@ def average_slope_intercept(lines): (Gets the left and right slope and intercept
 def lane_lines(image, lines): (Gets the coordiantes of x1,y1 and x2,y2)
 get_mean_line(line, lines): (Gets the mean line)
 
-# **Reflection **
+# **Reflection**
 With the current implementation we observer jitters this could be solved with calculating weighted average of the previous frames output lines. <br />
 Hough transform generaters lots of outliers so an outlier reduction approch like RANSAC on the hough lines could be helpful. <br /> 
 Canny edge detections doesn't perform well on shadows and poor lane marking, alternative edge detections algorithm could be used.
