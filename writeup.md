@@ -37,4 +37,4 @@ get_mean_line(line, lines): (Gets the mean line)
 # **Reflection**
 With the current implementation we observer jitters this could be solved with calculating weighted average of the previous frames output lines. <br />
 Hough transform generaters lots of outliers so an outlier reduction approch like RANSAC on the hough lines could be helpful. <br /> 
-Canny edge detections doesn't perform well on shadows and poor lane marking, alternative edge detections algorithm could be used.
+Canny edge detection doesn't perform well on shadows and poor lane marking, alternative edge detections algorithm could be used.
